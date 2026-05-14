@@ -73,7 +73,8 @@ npm run dev
 ```bash
 npm run build
 ```
-
+## Live website link
+https://skypulse-ai-weather-bed9.bolt.host/
 ## Project Structure
 
 ```
